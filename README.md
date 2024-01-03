@@ -1,7 +1,7 @@
-## Hey there :wave:, I'm Jedore
-:man_technologist::biking_man::yin_yang::snake:
+## Hey there :wave:
+:man_technologist::biking_man::yin_yang::snake: 
 
-![](https://komarev.com/ghpvc/?username=Jedore&color=green)
+![](https://komarev.com/ghpvc/?username=Jedore&color=green&label=PROFILE+VIEWS&style=flat-square)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tsdWxubzU1aGtxbjR0azF4emtlamVzdjdjYnB1cHkyZWlxNXA3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="100" />
@@ -13,12 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/openctp/openctp-ctp-python">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=openctp&repo=openctp-ctp-python&theme=shadow_green&hide_border=true" />
-  </a>
-  <a href="https://github.com/Jedore/aionacos">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jedore&repo=aionacos&theme=shadow_green&hide_border=true" />
-  </a>
+  <a target="_blank" href="https://github.com/openctp/openctp-ctp-python"  style="text-decoration: none"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=openctp&repo=openctp-ctp-python&theme=shadow_green&hide_border=true" /></a>
+  <a href="https://github.com/Jedore/aionacos" style="text-decoration: none"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jedore&repo=aionacos&theme=shadow_green&hide_border=true" /></a>
 </p>
 
 <div align="center">
