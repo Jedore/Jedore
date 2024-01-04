@@ -8,12 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jedore&theme=shadow_green&show_icons=true&hide=contribs&hide_border=true" alt="Jedore's GitHub stats" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedore&theme=shadow_green&langs_count=2&hide_border=true" alt="Jedore's Top Languages" />
-  </a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Jedore&theme=shadow_green&show_icons=true&hide=contribs&hide_border=true" alt="Jedore's GitHub stats" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedore&theme=shadow_green&langs_count=2&hide_border=true" alt="Jedore's Top Languages" /></a>
 </p>
 
 <div align="center">
