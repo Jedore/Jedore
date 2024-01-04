@@ -1,8 +1,6 @@
 ## Hey there :wave:
 :man_technologist::biking_man::yin_yang::snake: 
 
-![](https://komarev.com/ghpvc/?username=Jedore&color=green&label=PROFILE+VIEWS&style=flat-square)
-
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tsdWxubzU1aGtxbjR0azF4emtlamVzdjdjYnB1cHkyZWlxNXA3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="100" />
 </p>
