@@ -2,12 +2,18 @@
 :man_technologist::biking_man::yin_yang::snake: 
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47lott3v8a4wtj50onhnhg7b0n8hd1dwfiasihwko9&ep=v1_gifs_related&rid=giphy.gif" width="100" style="pointer-events: none;cursor: default;"/>
+  <picture>
+    <img src="https://media4.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47lott3v8a4wtj50onhnhg7b0n8hd1dwfiasihwko9&ep=v1_gifs_related&rid=giphy.gif" width="100" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jedore&theme=shadow_green&show_icons=true&hide=contribs&hide_border=true" alt="Jedore's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedore&theme=shadow_green&langs_count=2&hide_border=true" alt="Jedore's Top Languages" />
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jedore&theme=shadow_green&show_icons=true&hide=contribs&hide_border=true" alt="Jedore's GitHub stats" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jedore&theme=shadow_green&langs_count=2&hide_border=true" alt="Jedore's Top Languages" />
+  </picture>
 </p>
 
 <p align="center">
