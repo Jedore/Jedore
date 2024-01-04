@@ -2,9 +2,9 @@
 :man_technologist::biking_man::yin_yang::snake: 
 
 <p align="center">
-  <picture>
+  <a href="#">
     <img src="https://media4.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47lott3v8a4wtj50onhnhg7b0n8hd1dwfiasihwko9&ep=v1_gifs_related&rid=giphy.gif" width="100" />
-  </picture>
+  </a>
 </p>
 
 <p align="center">
