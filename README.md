@@ -13,73 +13,30 @@
 </p>
 
 <div align="center">
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    </a>
-    <a href="#">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    </a>
-    <a>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    </a>
-    <a>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-    </a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/portalblueparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/flyingmoneyparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/dadparrot.gif" width="36" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/pythonparrot.gif" width="36" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/sleepingparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/ceilingparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/reverseparrot.gif" width="25" height="25"/></a>
+    <a href="#"><img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalblueparrot.gif" width="25" height="25"/></a>
 </div>
