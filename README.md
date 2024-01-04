@@ -2,7 +2,7 @@
 :man_technologist::biking_man::yin_yang::snake: 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tsdWxubzU1aGtxbjR0azF4emtlamVzdjdjYnB1cHkyZWlxNXA3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmCEsJZHYBPels360q/giphy.gif" width="100" />
+  <img src="https://media4.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47lott3v8a4wtj50onhnhg7b0n8hd1dwfiasihwko9&ep=v1_gifs_related&rid=giphy.gif" width="100" style="pointer-events: none;cursor: default;"/>
 </p>
 
 <p align="center">
