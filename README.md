@@ -9,10 +9,16 @@
 
 #### :clipboard: Main Repo
 - [openctp-ctp: CTPAPI接口Python包](https://github.com/openctp/openctp-ctp-python)
-- [openctp-ctp-channels: openctp-ctp多通道切换利器](https://github.com/openctp/openctp-ctp-channels)
+- [openctp-ctp-channels: openctp-ctp多柜台通道切换利器](https://github.com/openctp/openctp-ctp-channels)
 - [webctp: CTPAPI接口转websocket接口](https://github.com/openctp/webctp)
 - [CTP Python代码示例](https://github.com/Jedore/ctp.examples)
 - [xgcondb: 虚谷数据库接口驱动Python包](https://github.com/Jedore/xgcondb)
+- [CTP接入新浪行情构建](https://github.com/Jedore/ctp2sina)
+- [CTP接入腾讯行情构建](https://github.com/Jedore/ctp2qq)
+- [openctp-ctp-channels各通道动态库部署](https://github.com/Jedore/openctp-ctp.channels.libs)
+- [CTPAPI接口线上文档部署](https://github.com/Jedore/ctpapi-docs)
+- [openctp-tts: CTPAPI接口接入TTS柜台(已归档)](https://github.com/Jedore/openctp-tts-python)
+- [cibuildwheel-cn: cibuildwheel国内加速版](https://github.com/Jedore/cibuildwheel-cn)
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats-jedore.vercel.app/api?username=Jedore&theme=shadow_green&show_icons=true&hide=contribs&hide_border=true" alt="GitHub stats" /></a>
