@@ -1,6 +1,13 @@
 ## Hey there :wave:
 :man_technologist::biking_man::yin_yang::snake: 
 
+### :clipboard: Main Repo
+- [openctp-ctp: CTPAPI接口Python包](https://github.com/openctp/openctp-ctp-python)
+- [openctp-ctp-channels: openctp-ctp多通道切换利器](https://github.com/openctp/openctp-ctp-channels)
+- [webctp: CTPAPI接口转websocket接口](https://github.com/openctp/webctp)
+- [CTP Python代码示例](https://github.com/Jedore/ctp.examples)
+- [xgcondb: 虚谷数据库接口驱动Python包](https://github.com/Jedore/xgcondb)
+
 <p align="center">
   <a href="#">
     <img src="https://media4.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif?cid=ecf05e47lott3v8a4wtj50onhnhg7b0n8hd1dwfiasihwko9&ep=v1_gifs_related&rid=giphy.gif" width="100" />
