@@ -35,7 +35,6 @@
 - [openctp-ctp-channels: openctp-ctp多柜台通道切换利器](https://github.com/Jedore/openctp-ctp-channels)
 - [webctp: CTPAPI接口转websocket接口](https://github.com/openctp/webctp)
 - [CTP Python代码示例](https://github.com/Jedore/ctp.examples)
-- [xgcondb: 虚谷数据库接口驱动Python包](https://github.com/Jedore/xgcondb)
 - [CTP接入新浪行情构建](https://github.com/Jedore/ctp2sina)
 - [CTP接入腾讯行情构建](https://github.com/Jedore/ctp2qq)
 - [openctp-ctp-channels各通道动态库部署](https://github.com/Jedore/openctp-ctp.channels.libs)
