@@ -30,7 +30,7 @@
 </div>
 
 #### :clipboard: Main Repo
-- [openctp-ctp: CTPAPI接口Python包](https://github.com/openctp/openctp-ctp-python)
+- [openctp-ctp: CTPAPI接口Python包](https://github.com/Jedore/openctp-ctp-python)
 - [openctp-ctpopt: CTPAPI股票期权接口Python包](https://github.com/openctp/openctp-ctpopt-python)
 - [openctp-ctp-channels: openctp-ctp多柜台通道切换利器](https://github.com/Jedore/openctp-ctp-channels)
 - [webctp: CTPAPI接口转websocket接口](https://github.com/openctp/webctp)
